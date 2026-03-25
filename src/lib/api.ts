@@ -1,8 +1,8 @@
 import { MagnetURL, MovieDetails, MovieSearchResult } from "@/types/movie";
 
 // API Configuration - Replace with your production URL
-const API_BASE_URL = "https://movie-muse-api.unedotampubolon.com";
-const API_INDEXER_URL = "https://torrent-api.unedotampubolon.com";
+const API_BASE_URL = "https://api.lensboxd.site";
+const API_INDEXER_URL = "https://orbit.unedotampubolon.com";
 
 // Types
 
